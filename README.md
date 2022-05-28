@@ -4,7 +4,7 @@
 
 # Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
-<img src = "https://visitor-badge.glitch.me/badge?page_id=Nahuel1440.Nahuel1440">
+<img alt="contador-de-visitas" src = "https://visitor-badge.glitch.me/badge?page_id=Nahuel1440.Nahuel1440">
 Hi! My name is José Nahuel Toloza. Thank You for taking the time to view my GitHub Profile :smile: 
 
 ## About Me 🚀 
