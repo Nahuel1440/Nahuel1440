@@ -1,10 +1,10 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "250px" src="http://www.haiku-media.com/media/20144/portada2.png" alt="cover" />
 </div>
 
 # Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
-<img alt="contador-de-visitas" src = "https://visitor-badge.glitch.me/badge?page_id=Nahuel1440.Nahuel1440">
+<img alt="badget-of-visit" src = "https://visitor-badge.glitch.me/badge?page_id=Nahuel1440.Nahuel1440">
 Hi! My name is José Nahuel Toloza. Thank You for taking the time to view my GitHub Profile :smile: 
 
 ## About Me 🚀 
