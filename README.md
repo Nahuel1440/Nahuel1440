@@ -8,7 +8,7 @@ Hi! My name is José Nahuel Toloza. Thank You for taking the time to view my Git
 
 - 🔭 I’m currently working on my WheaterApp project and in others.
 
-- 🌱 I’m currently learning PostgreSQL, MySQL, MongoDB, Sequelize.
+- 🌱 I’m currently learning about databases.
 
 - 👯 I’m looking to collaborate on Projects.
 
