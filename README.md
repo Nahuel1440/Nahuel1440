@@ -1,4 +1,4 @@
-# Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 <img alt="badget-of-visit" src = "https://visitor-badge.glitch.me/badge?page_id=Nahuel1440.Nahuel1440">
 Hi! My name is José Nahuel Toloza. Thank You for taking the time to view my GitHub Profile :smile: 
 
