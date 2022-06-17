@@ -6,7 +6,7 @@ Hi! My name is José Nahuel Toloza. Thank You for taking the time to view my Git
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on my WheaterApp project and in others.
+- 🔭 I’m currently working on my DogsPage project and in others.
 
 - 🌱 I’m currently learning about databases.
 
